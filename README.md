@@ -1,8 +1,6 @@
 # :family_man_woman_girl_boy:  chitchat
 
-![项目状态](https://img.shields.io/badge/ChitChat-doing-green.svg)![项目进度]( )
-
-
+![项目状态](https://img.shields.io/badge/ChitChat-doing-green.svg)![项目进度](http://progressed.io/bar/20?title=progress)
 
 ## 项目描述
 
